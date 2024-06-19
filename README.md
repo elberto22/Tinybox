@@ -1,6 +1,7 @@
 # Tinybox
 A MX style 12 key leverless fightpad based off of the flatbox rev 5 by jfedor 
-github.com/jfedor2/flatbox
+
+https://github.com/jfedor2/flatbox
 
 
 The tinybox is my attempt at making a more cost effective fightpad than the flatbox, however if you are looking for a more polished and refined experience with building your own controller, please check out jfedors work's too.
